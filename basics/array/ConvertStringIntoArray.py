@@ -1,6 +1,6 @@
 import array
 
-s = "Sapna"
+s = Sapna"
 l = list(s)
 l2 = []
 a= array.array('u', l2)
